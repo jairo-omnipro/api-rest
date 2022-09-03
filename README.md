@@ -15,6 +15,6 @@ Clonacion de repositorio:
 
 Instalacion de Express:
 
-- En el mismo CMD del paso anterior, ejecute el comando npm install express --save.
+- En el mismo CMD del paso anterior, ejecute el comando npm install express --save
 
 
